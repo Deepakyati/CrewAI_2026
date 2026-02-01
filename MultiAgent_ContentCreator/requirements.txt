@@ -1,0 +1,18 @@
+# --- Frontend & UI ---
+streamlit>=1.31.0
+
+# --- Multi-Agent Framework ---
+crewai>=0.28.0
+
+# --- LLM Provider Connectors ---
+langchain-google-genai>=1.0.0
+langchain-groq>=0.1.0
+langchain-openai>=0.1.0
+
+# --- Core & Community Tools ---
+langchain-core>=0.1.45
+langchain-community>=0.0.38
+duckduckgo-search>=6.0.0  # This is the library for 'ddgs'
+
+# --- Utilities ---
+python-dotenv>=1.0.1
